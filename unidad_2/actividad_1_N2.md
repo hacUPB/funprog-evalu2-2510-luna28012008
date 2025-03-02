@@ -11,12 +11,12 @@
 
 
 ## ¿Qué es un Computador? 💻
-![computador](funprog-evalu2-2510-luna28012008/photos/computador.jpg)
+![alt text](../photos/computador.jpg)
 
 El computador, también **conocido generalmente como ordenador o computadora**, es una compleja máquina que procesa y ejecuta órdenes de diversa índole para dar como resultado un sinfín de tareas distintas. Creada hace muchas décadas, este aparato sigue en constante evolución y es uno de los inventos más populares de la historia, ocupando un lugar en casi todos los hogares del mundo.
 
 Al igual que el cuerpo humano, la computadora **necesita de una parte material, tangible y visible para funcionar**, pero también de ideas, funciones y un “alma” que no se puede ver. Ambas cosas reciben el nombre de hardware y software.
-![hardware](funprog-evalu2-2510-luna28012008/photos/parte_tangible.jpg)
+![alt text](../photos/parte_tangible.jpg)
 
 El hardware son los elementos físicos (periféricos) como el teclado, el ratón, la pantalla o monitor, los cables, plaquetas y todo tipo de elementos que forman al computador de manera sólida. Pero en su interior, grabado en la memoria, encontramos **el software, que son los programas, sistemas operativos y funciones instaladas** que le dan vida y coordinan lo material para funcionar. [1]
 
@@ -33,23 +33,23 @@ En tal sentido, **la arquitectura de computadoras constituye la base conceptual 
 Los principales componentes de la arquitectura de una computadora tienen que ver con las partes que forman un ordenador. Entre ellos se encuentran:
 
 - **CPU:** puede apreciarse como el _cerebro de la computadora_. Se encarga de ejecutar las instrucciones de los programas y realizar operaciones tanto matemáticas como lógicas. Se compone fundamentalmente por la Unidad de Control (UC) y la Unidad Aritmético-Lógica (ALU).
-![cpu](funprog-evalu2-2510-luna28012008/photos/cpu.jpg)
+![alt text](../photos/cpu.jpg)
 
 - **Bus:** tiene que ver con los canales de comunicación que permiten la transferencia de datos entre la CPU, la memoria y los dispositivos de entrada/salida. Usualmente, se dividen en tres tipos: el bus de datos, el de direcciones y el bus de control.
-![bus](funprog-evalu2-2510-luna28012008/photos/bus.jpg)
+![alt text](../photos/bus.jpg)
 
 - **Memoria principal:** se trata del espacio de almacenamiento temporal, donde se guardan las instrucciones de los programas y los datos que están siendo procesados. Se divide en celdas o posiciones de memoria, cada una con una dirección única que permite acceder a la información almacenada. 
-![memoria principal](funprog-evalu2-2510-luna28012008/photos/memoria_principal.jpg)
+![alt text](../photos/memoria_principal.jpg)
 
 - **Unidad de Entrada/Salida (E/S):** son los dispositivos que permiten la interacción entre el usuario y la computadora. Incluye teclados, mouse o ratón, pantallas, impresoras, discos duros, unidades USB y otros periféricos.
-![entrada](funprog-evalu2-2510-luna28012008/photos/dispositivo_entrada.jpg)
-![salida](funprog-evalu2-2510-luna28012008/photos/dispositivo_salida.jpg)
+![alt text](../photos/dispositivo_entrada.jpg)
+![alt text](../photos/dispositivo_salida.jpg)
 
 - **Reloj:** consiste en un componente que genera pulsos eléctricos a intervalos regulares, marcando el ritmo de las operaciones de la CPU y sincronizando todos los componentes del sistema.
-![reloj](funprog-evalu2-2510-luna28012008/photos/reloj_computador.jpg)
+![alt text](../photos/reloj_computador.jpg)
 
 - **Sistema Operativo:** hace referencia a un software esencial que actúa como intermediario entre el usuario y el hardware. Gestiona los recursos de la computadora, permitiendo la ejecución de programas y tareas.[2]
-![sistema operativo](funprog-evalu2-2510-luna28012008/photos/sistema_operativo.jpg)
+![alt text](../photos/sistema_operativo.jpg)
 
 ### Equipos que Contienen la Arquitectura 
 
