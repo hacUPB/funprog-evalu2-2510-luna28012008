@@ -21,7 +21,7 @@ Al igual que el cuerpo humano, la computadora **necesita de una parte material, 
 El hardware son los elementos físicos (periféricos) como el teclado, el ratón, la pantalla o monitor, los cables, plaquetas y todo tipo de elementos que forman al computador de manera sólida. Pero en su interior, grabado en la memoria, encontramos **el software, que son los programas, sistemas operativos y funciones instaladas** que le dan vida y coordinan lo material para funcionar. [1]
 
 ## Arquitectura de los Computadores 🛠️ 
-![alt text](funprog-evalu2-2510-luna28012008/photos/microprocesador.webp)
+![alt text](../photos/microprocesador.webp)
 
 ### ¿Qué es?
 Se trata de un conjunto de reglas, principios y estándares que definen la estructura y el diseño de los componentes de hardware y software que conforman un sistema informático. Esta disciplina abarca desde el nivel más bajo, como los circuitos electrónicos y la lógica digital, hasta el nivel más alto, como lo son los sistemas operativos y las aplicaciones.
